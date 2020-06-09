@@ -2,7 +2,6 @@
  *  Name: London Walsh  
  *  NetID: 790-654-104
  *
- *  Hours to complete assignment (optional): Honestly I have no idea. Alot.
  *
  ******************************************************************************/
 
